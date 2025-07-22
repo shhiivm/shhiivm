@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🧠 Currently exploring **DOM, Execution Context, and Dynamic Programming**  
 - 🔭 Working on mini-projects and improving coding skills  
 - 🌱 Interested in Frontend Development, APIs, and Open Source  
-- 📫 Reach me at: **shivamsingh@example.com** *(replace with your email)*  
+- 📫 Reach me at: **shivanand Singh**  
 
 ---
 
